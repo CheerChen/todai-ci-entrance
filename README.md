@@ -7,6 +7,7 @@ Archive of Todai CI entrance programming practice problems and solutions.
 | Problem | Topics | Notes |
 |---|---|---|
 | [2009-08 Rectangle Clusters](problems/2009-08-rectangle-clusters/) | grid simulation, rectangle overlap, connected components | Original Python 2 solution, Python 3 improvement, and OO refactor |
+| [2010-02 Dynamic Directed Graph](problems/2010-02-dynamic-directed-graph/) | directed graph, dynamic updates, reachability | Original Python 2 solution and Python 3 port preserving original logic |
 | [2017-02 Source Code Text Analysis](problems/2017-02-source-code-text-analysis/) | source code analysis, word count, edit distance | Problem statement missing; original answer preserved as known incorrect |
 
 ## Structure
